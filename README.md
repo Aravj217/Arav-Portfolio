@@ -1,4 +1,4 @@
-# 🚀 Arnav Jain — 3D Portfolio Website
+# 🚀 Arav Jain — 3D Portfolio Website
 
 <div align="center">
 
